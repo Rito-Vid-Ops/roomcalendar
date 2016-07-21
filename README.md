@@ -14,5 +14,9 @@
 
 ##### 5. after changes have been made and added/commited, check to see that you have the newest changes -> git pull upstream dev 
 
-##### 6. fix conflicts and push -> git push origin [branch name]
+##### 6. fix conflicts, git add and commit, and pull again until you have the latest version as well as your changes
+
+##### 7. push your changes up to your forked repository -> git push origin [branch name]
+
+
 
