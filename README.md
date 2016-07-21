@@ -6,7 +6,7 @@
 
 ##### 1. Fork over the repository
 
-##### 2. git clone the repository onto your local machine -> git clone [forked repp URL] 
+##### 2. git clone the repository onto your local machine -> git clone [forked repo URL] 
 
 ##### 3. add the original repository as upstream -> git remote add upstream [original repo URL]
 
